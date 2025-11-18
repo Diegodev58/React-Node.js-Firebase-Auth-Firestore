@@ -4,6 +4,7 @@
 ----------------------------------------
 📂 ESTRUCTURA FINAL
 ----------------------------------------
+``
 mi-proyecto/
 ├─ cliente/               ← React (solo diseño y llamadas)
 │  ├─ public/
@@ -26,7 +27,7 @@ mi-proyecto/
 │  ├─ index.js
 │  └─ .env.example
 └─ README.md
-
+``
 ----------------------------------------
 1️⃣ SERVIDOR (Node.js + Firebase Admin)
 ----------------------------------------
